@@ -1,2 +1,0 @@
-# TheMirage
-hotel reservation
